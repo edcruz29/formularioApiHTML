@@ -1,8 +1,8 @@
-# Calculadora
+# Validação de Formulário com API HTML
 
 ## Sobre
 
-Estudo de Validação de Formulários com a API HTML
+Estudo de Validação de Formulários com a API HTML e criação de novas formas de menssagens.
 
 ## Funcionalidades
 
